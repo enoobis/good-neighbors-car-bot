@@ -19,5 +19,5 @@
 <br />
 ``Can take a screenshot of the cars location``
 <br />
-``And write and send a weekly report``
+``Write and send a weekly report``
 
