@@ -34,14 +34,12 @@
 image comand = *image* 
 <p>
   <img 
-
     src="https://media.discordapp.net/attachments/909731897872105545/972542531340496916/unknown.png"
   >
 </p>
 
 <p>
   <img 
-
     src="https://media.discordapp.net/attachments/909731897872105545/972543836687589376/unknown.png"
   >
 </p>
