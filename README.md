@@ -12,3 +12,9 @@
     \_/\_/     \___/  |_| |_| |_|  \__,_| |_| |_|     |_|    \__,_| /_/\_\ |_|   |_.__/   \___/   \__|
                                                                                                       
 ```
+
+Good neighbors car bot is a telegram car tracking bot.
+``It can provide car information``
+``Take a screenshot of the cars location``
+``Write and send a weekly report``
+
