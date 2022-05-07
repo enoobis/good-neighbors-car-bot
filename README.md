@@ -28,6 +28,7 @@
 <br />
 
 image
+
   <img 
     width="300"
     height="300"
