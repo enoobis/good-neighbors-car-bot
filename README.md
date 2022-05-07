@@ -66,3 +66,17 @@
 
 **Bot Username = ``@GoodNeighborsCar_bot``**
 
+
+# Libraries
+
+[aiogram](https://github.com/aiogram/aiogram)
+[selenium](https://github.com/SeleniumHQ/selenium)
+[pillow](https://github.com/python-pillow/Pillow)
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
+```
