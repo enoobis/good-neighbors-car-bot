@@ -25,7 +25,9 @@
 3)
 ``Write and send a weekly report``
 
-<br /> 
+<br />
+
+image
   <img 
     width="300"
     height="300"
