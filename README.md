@@ -27,7 +27,11 @@
 
 <br />
 
-image
+**Comands:**
+
+<br />
+
+image 
 <p>
   <img 
     width="300"
