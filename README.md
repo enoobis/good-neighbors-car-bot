@@ -24,4 +24,11 @@
 <br />
 3)
 ``Write and send a weekly report``
-https://media.discordapp.net/attachments/909731897872105545/972542531340496916/unknown.png
+
+<br /> 
+  <img 
+    width="300"
+    height="300"
+    src="https://media.discordapp.net/attachments/909731897872105545/972542531340496916/unknown.png"
+  >
+
