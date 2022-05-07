@@ -13,11 +13,11 @@
                                                                                                       
 ```
 
-**Good neighbors car bot** is a telegram car tracking bot.
+**Good neighbors car bot** or telegram car tracking bot
 <br/>
-``It can provide car information``
+``Can provide car information``
 <br />
-``Take a screenshot of the cars location``
+``Can take a screenshot of the cars location``
 <br />
-``Write and send a weekly report``
+``And write and send a weekly report``
 
