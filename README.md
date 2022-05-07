@@ -31,12 +31,16 @@
 
 <br />
 
-image comand = *image* 
+**image comand** = *image* 
 <p>
   <img 
     src="https://media.discordapp.net/attachments/909731897872105545/972542531340496916/unknown.png"
   >
 </p>
+
+<br />
+
+**text comand** = *text* 
 
 <p>
   <img 
