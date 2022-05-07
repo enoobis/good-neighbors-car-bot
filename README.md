@@ -15,9 +15,12 @@
 
 **Good neighbors car bot** or telegram car tracking bot
 <br/>
+1)
 ``Can provide car information``
 <br />
+2)
 ``Can take a screenshot of the cars location``
 <br />
+3)
 ``Write and send a weekly report``
 
