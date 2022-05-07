@@ -31,7 +31,7 @@
 
 <br />
 
-image 
+image comand = *image* 
 <p>
   <img 
     width="300"
