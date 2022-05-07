@@ -70,13 +70,13 @@
 # Libraries
 
 [aiogram](https://github.com/aiogram/aiogram)
+<br />
 [selenium](https://github.com/SeleniumHQ/selenium)
+<br />
 [pillow](https://github.com/python-pillow/Pillow)
 
-## Installation
+## Links
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+[uptimerobot](https://uptimerobot.com/)
+[replit](https://replit.com/)
 
-```bash
-pip install foobar
-```
